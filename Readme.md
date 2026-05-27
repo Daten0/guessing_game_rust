@@ -1,6 +1,6 @@
 # **A Guessing Number game**
 
-`using rust`
+`CLI Based game using rust`
 
 ### **Library used**
 - **std::io** : (*Standard library of Rust that handles input-output pattern*)
